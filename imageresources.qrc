@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+	  <file>images/fileList.png</file>
+        <file>images/background.png</file>
+        <file>images/backgroundp.png</file>
+        <file>images/close-hover.png</file>
+	  <file>images/close.png</file>
+        <file>images/import_patient.png</file>
+        <file>images/create_patient.png</file>
+        <file>images/background_black.png</file>
+	  <file>images/background_black2.png</file>
+	  <file>images/background_green.png</file>
+	  <file>images/background_darkBlue.png</file>
+	  <file>images/background_light_green.png</file>
+        <file>images/fileList-pressed.png</file>
+        <file>images/import_patient_hover.png</file>
+        <file>images/create_patient_hover.png</file>
+	  <file>images/begin_therapy.png</file>
+	  <file>images/begin_therapy_hovering.png</file>
+	  <file>images/begin_therapy_clicked.png</file>
+	  <file>images/splitter_left.png</file>
+	  <file>images/splitter_right.png</file>
+	  <file>images/image_configuration.png</file>
+	  <file>images/image_update.png</file>
+	  <file>images/transformation.png</file>
+	  <file>images/transformation_inverse.png</file>
+	  <file>images/downarrow_combo.png</file>
+	  <file>images/splitter_left.png</file>
+	  <file>images/splitter_right.png</file>
+	  <file>images/Disk.png</file>
+	  <file>images/background_lightBlack.png</file>
+	  <file>images/background_blackblue.png</file>
+	  <file>images/images_1_1.png</file>
+	  <file>images/lala.png</file>
+    </qresource>
+</RCC>
